@@ -1,5 +1,4 @@
 - 👋 Hola, soy Ángel Ríos
-- 👀 I’m interested in 
 - 🌱 Actualmente estoy aprendiendo Html, css ,       JavaScript, C , SQL.
 - 💞️ Estoy buscando colaborar en proyectos que       abarquen estos lenguajes (sobretodo estoy       interesado en front end)
 - 📫 como contactarme angelripo5@gmail.com
