@@ -5,7 +5,7 @@
 - 💞️ Estoy buscando colaborar en proyectos que       abarquen estos lenguajes (sobretodo estoy       interesado en front end)
 - 📫 como contactarme angelripo5@gmail.com
 
-*CV:*
+*CV:* 
 *Carta recomendación:*
 
 
