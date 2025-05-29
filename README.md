@@ -5,8 +5,8 @@
 - 💞️ Estoy buscando colaborar en proyectos que       abarquen estos lenguajes (sobretodo estoy       interesado en front end)
 - 📫 como contactarme angelripo5@gmail.com
 
-*CV:* 
-*Carta recomendación:*
+*CV y* 
+*Carta recomendación:* https://github.com/Angelrp2/CV
 
 
 ## 💻 Tech Stack:
